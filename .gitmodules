@@ -1,0 +1,6 @@
+[submodule "webhddtemp-frontend"]
+	path = webhddtemp-frontend
+	url = https://github.com/PvtTony/webhddtemp-frontend.git
+[submodule "webhddtemp-backend"]
+	path = webhddtemp-backend
+	url = https://github.com/PvtTony/webhddtemp-backend.git
