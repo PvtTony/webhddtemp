@@ -8,6 +8,6 @@
  子模块 webhddtemp-backend：后端部分
  * fancontrol.ino 
  Arudino 控制器的代码
-
+   * 3rd Party Library Required 需要第三方库: [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)
  ## Schematic
  ![Schematic](asset/sktech_bb.png?raw=true)
